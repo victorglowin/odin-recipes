@@ -1,0 +1,71 @@
+/* This is the style for index.html*/
+.bodyone {
+    background-color: rgb(155, 245, 155);
+}
+
+.first-heading {
+    font-size: 100px;
+    text-align: center;
+}
+
+.second-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.first-heading,
+.second-heading {
+    background-color: rgb(7, 53, 7);
+    color: white;
+}
+
+#africa-foods {
+    height: auto;
+    width: 1000px;
+}
+
+ul {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+
+}
+
+/*This is the style for Koshari.html*/
+.bodytwo {
+    background-color: yellow;
+}
+
+.kheadingone {
+    font-size: 100px;
+    text-align: center;
+}
+
+.kheadingtwo {
+    font-size: 50px;
+    text-align: center;
+}
+
+.kheadingthree {
+    font-size: 25px;
+    text-align: center;
+}
+
+#kosh {
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+li {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
